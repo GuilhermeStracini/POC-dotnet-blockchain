@@ -1,31 +1,29 @@
-# PoC .NET template
+# Project Title
 
-A template repository for .NET PoC (Proof of Concept)
+One Paragraph of project description goes here.
 
----
+## Getting Started
 
-- Create a new repository using this one as a template (click the green button at the top right of this page).
-- Edit [README.md](README.md) file to align with your PoC.
-- Change the solution and projects to suit your investigation/test/concept.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-## Installation Guide
+### Prerequisites
 
-Follow these steps to set up the project. This guide includes installation scripts for PowerShell, Shell/Bash, and Batch.
+What things you need to install the software and how to install them
 
-### PowerShell
-
-```ps
-.\install.ps1
+```
+Give examples
 ```
 
-### Shell/Bash
+### Installing
 
-```bash
-./install.sh
+A step by step series of examples that tell you how to get a development env running
+
+Say what the step will be
+
+```
+Give the example
 ```
 
-### Batch
+Repeat until finished
 
-```batch
-.\install.bat
-```
+End with an example of getting some data out of the system or using it for a little demo
