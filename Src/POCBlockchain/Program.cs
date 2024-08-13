@@ -1,4 +1,4 @@
-﻿namespace POCTemplate;
+namespace POCBlockchain;
 
 internal static class Program
 {

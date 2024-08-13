@@ -1,6 +1,6 @@
 using FluentAssertions;
 
-namespace POCTemplate.Tests;
+namespace POCBlockchain.Tests;
 
 public class UnitTest1
 {
