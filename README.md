@@ -2,6 +2,12 @@
 
 One Paragraph of project description goes here.
 
+## Pixeebot Activity Dashboard
+
+The Pixeebot Activity Dashboard provides a comprehensive summary of repository activities, highlights available improvement opportunities, and integrates with various code scanning tools to ensure code quality and maintainability.
+
+For more information, refer to the [Pixee Docs](https://docs.pixee.ai/code-scanning-tools/overview).
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
