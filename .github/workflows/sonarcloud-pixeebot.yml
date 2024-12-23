@@ -1,3 +1,16 @@
+name: SonarCloud
+
+on: [push, pull_request]
+jobs:
+  sonarcloud:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: SonarCloud Scan
+        uses: SonarSource/sonarcloud-github-action@v1
+        with:
+          projectBaseDir: Src/POCBlockchain
+          args: -Dsonar.projectKey=GuilhermeStracini_POC-dotnet-blockchain
 name: Fix SonarCloud Issues with Pixeebot
 on:
   check_run:
