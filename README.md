@@ -48,6 +48,13 @@ After running the application, you can:
 - Test the proof-of-work consensus mechanism.
 
 The console output will demonstrate blockchain functionality, including block creation, validation, and chain integrity checks.
+## Pixeebot Activity Dashboard
+
+This repository is actively monitored by Pixeebot, which provides insights into repository activity and improvement opportunities.
+
+**Recommendation:** Connect a supported code scanning tool (e.g., SonarCloud, SonarQube, CodeQL, or Semgrep) to ensure robust code quality in this C# project.
+
+For further details, visit the [Pixee Documentation](https://docs.pixee.ai/).
 
 ## Useful Links
 
