@@ -77,3 +77,6 @@ Happy coding! 🎉
 ## Code Scanning
 Follow our integrated code scanning tools: [SonarCloud](https://sonarcloud.io) | [CodeQL](https://github.com/github/codeql)
 
+## Dashboard
+[View the Pixeebot Activity Dashboard](DASHBOARD.md)
+
